@@ -1,6 +1,6 @@
-# todo_app
+# Flutter Simple Todo App
 
-A new Flutter project.
+A Simple App using flutter for saving and deleting tasks which uses Provider for it's state management.
 
 ## Getting Started
 
@@ -14,3 +14,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
+![Vid](https://user-images.githubusercontent.com/62956793/151616391-e3e3e6eb-3b77-435f-b3d7-a8aacb959bfd.gif)
